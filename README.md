@@ -59,7 +59,7 @@ For any questions or inquiries, please contact me at assareh73@gmail.com.
 ![ROC Curve](https://github.com/AliAssareh/Alzheimer-s-disease/roc_curve.png)
 
 - Comparison of the produced PET scan and the real PET scan of the patient: (placeholder)
-![PET Scan Comparison](https://github.com/AliAssareh/Alzheimer-s-disease/r/pet_scan_comparison.png)
+![PET Scan Comparison](https://github.com/AliAssareh/Alzheimer-s-disease/pet_scan_comparison.png)
 
 
 ## Technologies Used
