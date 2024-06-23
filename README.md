@@ -10,7 +10,7 @@ This project utilizes data from the Alzheimer's Disease Neuroimaging Initiative 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Alzheimers-disease-prediction.git
+    git clone https://github.com/AliAssareh/Alzheimers-disease-prediction.git
     cd Alzheimers-disease-prediction
     ```
 2. Install the required packages:
@@ -55,8 +55,12 @@ The project is licensed under the [MIT License](LICENSE). Note that the work is 
 For any questions or inquiries, please contact me at assareh73@gmail.com.
 
 ## Screenshots/Examples
-- ROC curve of the classifier: (placeholder)
+- ROC curve of the classifier:
+![ROC Curve](https://github.com/AliAssareh/Alzheimer-s-disease/roc_curve.png)
+
 - Comparison of the produced PET scan and the real PET scan of the patient: (placeholder)
+![PET Scan Comparison](https://github.com/AliAssareh/Alzheimer-s-disease/r/pet_scan_comparison.png)
+
 
 ## Technologies Used
 - Python (TensorFlow)
