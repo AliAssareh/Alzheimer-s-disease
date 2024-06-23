@@ -56,10 +56,10 @@ For any questions or inquiries, please contact me at assareh73@gmail.com.
 
 ## Screenshots/Examples
 - ROC curve of the classifier:
-![ROC Curve](https://github.com/AliAssareh/Alzheimer-s-disease/roc_curve.png)
+![ROC Curve](https://github.com/AliAssareh/Alzheimer-s-disease/blob/main/roc_curve.png)
 
 - Comparison of the produced PET scan and the real PET scan of the patient: (placeholder)
-![PET Scan Comparison](https://github.com/AliAssareh/Alzheimer-s-disease/pet_scan_comparison.png)
+![PET Scan Comparison](https://github.com/AliAssareh/Alzheimer-s-disease/blob/main/pet_scan_comparison.png)
 
 
 ## Technologies Used
